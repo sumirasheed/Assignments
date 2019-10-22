@@ -1,0 +1,11 @@
+.flex_item{
+    display: flex;
+}
+.interest_card .input-group-text{
+    color: #a56446;
+    background-color: #fefff2;
+}
+
+.interest_card .form-control,.interest_card .input-group-text{
+    border-color:#a56446;
+}

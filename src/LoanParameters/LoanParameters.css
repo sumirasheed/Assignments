@@ -1,0 +1,11 @@
+.LoanParameter{
+    margin:140px 0;
+}
+.loan_detailcard .input-group-text{
+    color:green;
+    background-color:#edffed;
+   
+}
+.loan_detailcard .form-control,.loan_detailcard .input-group-text{
+    border-color:green;
+}

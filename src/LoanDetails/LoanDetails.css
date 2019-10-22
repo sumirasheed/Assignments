@@ -1,0 +1,13 @@
+.loan-detail{
+    background-color: #fff5e9;
+}
+.list-group-item,.loan-detail{
+
+    font-weight: 500;
+}
+.loan-details .list-group-item span,.loan-detail span{
+    color: #9E9E9E;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 5px;
+}
